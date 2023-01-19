@@ -26,3 +26,4 @@ x = input('enter temperature celcius: ')
 c = float(x)
 f = c * 9 / 5 + 32
 print('фаренгейт: ', f, '°F')
+________________________________________
